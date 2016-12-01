@@ -1,3 +1,4 @@
 # github-bugs-smile
-        xxxxxxO xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxx(xxxxxxxxxxxxxxxxxxxxxxxxxx(xxxxxxxxxxxx));
-okay
+                OOOOOO OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.OOOOOOOOOOOOOOOOOOOOOOOOO(OOOOOOOOOOOOOOOOOOOOOOOOOO(OOOOOOOOOOOO));
+                wide chars?
+                
