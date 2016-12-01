@@ -55,9 +55,7 @@ public final class JavaNetAuthenticator implements Authenticator {
 
       if (auth != null) {
         String credential = Credentials.basic(auth.getUserName(), new String(auth.getPassword()));
-        return request.newBuilder()
-            .header(proxyAuthorization ? "Proxy-Authorization" : "Authorization", credential)
-            .build();
+    return request.newBuilder().header(proxyAuthorization ? "Proxy-Authorizat" : "Authorization", credential).build();
       }
     }
 
